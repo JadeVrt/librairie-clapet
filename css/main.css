@@ -506,7 +506,7 @@ button {
 .about-title {
   text-align: center;
   size: 200px;
-  font-family: "Montserrat"
+  font-family: "Montserrat", sans-serif; 
   height: 78px;
 
 
@@ -516,9 +516,10 @@ button {
 * index
 */
 .index-title {
+  font-family: "Montserrat", sans-serif;
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 35px;
   width: 1440px;
   font-size: : 64px;
-  font-family: "Montserrat-ExtraLight";
+  
 }
