@@ -42,7 +42,7 @@ h2 {
   font-size: 64px;
   font-weight: 78px;
   width: 460px;
-  font-family: "Montserrat-ExtraLight";
+  font-family: "Montserrat";
 }
 
 h3 {
@@ -263,7 +263,7 @@ button {
 .header__title {
   font-size: 64px;
   margin: 5;
-  font-family: "Montserrat-Bold"
+  font-family: "Montserrat"
 
 }
 
@@ -273,7 +273,7 @@ button {
   font-weight: 100;
   text-shadow: 1px 1px 5px #000;
   margin-bottom: 102.2px;
-  font-family: "Montserrat-ExtraLight"
+  font-family: "Montserrat"
 }
 
 
@@ -364,14 +364,14 @@ button {
   font-weight: bold;
   width: 370px;
   height: 32px;
-  font-family: "Montserrat-Bold";
+  font-family: "Montserrat";
 }
 
 .honey-pot__subtitle {
   margin: 0;
   font-size: 22px;
   font-weight: 200;
-  font-family: "Montserrat-ExtraLight";
+  font-family: "Montserrat";
 }
 
 
