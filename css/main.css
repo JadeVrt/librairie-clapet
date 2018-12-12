@@ -200,6 +200,7 @@ button {
 }
 
 .chapo {
+  justify-content: left;
   font-size: 25px;
   width: 960px;
   height: 116px;
