@@ -327,11 +327,12 @@ button {
 */
 
 .honey-pot-list {
+  display: flex;
   text-align: center;
+  justify-content: space-around;
 }
 
 .honey-pot {
-  display: inline-block;
   margin: 0 30px 35px 30px;
   text-align: center;
 }
@@ -362,8 +363,6 @@ button {
   margin: 0;
   font-size: 26px;
   font-weight: bold;
-  width: 370px;
-  height: 32px;
   font-family: "Montserrat";
 }
 
