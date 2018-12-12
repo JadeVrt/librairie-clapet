@@ -39,7 +39,7 @@ h1 {
 h2 {
   margin: 25px 0;
   font-size: 64px;
-  font-weight: 78px;
+  font-weight: 200;
   width: 460px;
   font-family: "Montserrat";
 }
@@ -205,7 +205,8 @@ button {
   height: 116px;
   text-align: center;
   margin: auto;
-  font-family: "Worksans-Regular"
+  font-weight: normal;
+  font-family: "Work Sans"
 
 }
 
@@ -286,7 +287,7 @@ button {
 
 .nav-main__list {
   text-align: center;
-  font-family: "WorkSans-Light";
+  font-family: "Work Sans";
   line-height: normal;
   font-size: 18px;
   font-weight: 300;
@@ -520,6 +521,6 @@ button {
   text-align: center;
   margin-bottom: 35px;
   width: 1440px;
-  font-size: : 64px;
+  font-size: 64px;
   
 }
