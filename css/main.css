@@ -200,7 +200,6 @@ button {
 }
 
 .chapo {
-  justify-content: left;
   font-size: 25px;
   width: 960px;
   height: 116px;
@@ -494,7 +493,16 @@ button {
   font-weight: 200;
 }
 
+.bloc-parents {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
 
+.enfant1 {
+  display: flex;
+  flex-direction: column;
+}
 /**
 * decouvrez-notre-librairie
 */
@@ -508,7 +516,6 @@ button {
   size: 200px;
   font-family: "Montserrat", sans-serif; 
   height: 78px;
-
 
 }
 
