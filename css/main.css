@@ -455,6 +455,15 @@ button {
   margin-bottom: 35px;
 }
 
+.news-list-actu {
+  justify-content: center;
+  display: grid;
+  grid-gap: 35px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  margin-bottom: 35px;
+}
+
 .news-list .news-list__news--main {
   grid-column: span 3;
 }
@@ -524,7 +533,8 @@ button {
 
 .Jim {
   font-family:"Work Sans", sans-serif;
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 20px;
   max-width: 600px;
   text-align: justify;
 }
