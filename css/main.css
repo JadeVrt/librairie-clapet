@@ -509,28 +509,28 @@ button {
 }
 
 .nuit {
-  font-family:"Work Sans";
-  font-size: 30px;
+  font-family:"Work Sans", sans-serif;
+  font-size: 25px;
   max-width: 600px;
   text-align: justify;
 }
 
 .découverte {
-  font-family:"Work Sans"
-  font-size: 25px;
+  font-family:"Work Sans", sans-serif;
+  font-size: 20px;
   max-width: 600px;
   text-align: justify;
 }
 
 .Jim {
-  font-family:"Work Sans"
-  font-size: 25px;
+  font-family:"Work Sans", sans-serif;
+  font-size: 16px;
   max-width: 600px;
   text-align: justify;
 }
 
 .citation1 {
-  font-family:"Montserrat"
+  font-family:"Montserrat", sans-serif;
   font-size: 24px;
   font-weight: 200;
   max-width: 584px;
@@ -541,8 +541,9 @@ button {
 }
 
 .citation2 {
-  font-family:"Montserrat"
+  font-family:"Work Sans", sans-serif;
   font-size: 24px;
+  font-weight: 200;
   max-width: 584px;
   text-align: justify;
   color: #e8a27d;
@@ -552,14 +553,14 @@ button {
 
 .legende1 {
   font-family:"Work Sans"
-  font-size: 21px;
+  font-size: 16px;
   max-width: 600px;
   text-align: right;
 }
 
 .legende2 {
   font-family:"Work Sans"
-  font-size: 21px;
+  font-size: 16px;
   max-width: 600px;
   text-align: right;
 }
