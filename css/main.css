@@ -471,6 +471,10 @@ button {
   grid-column: span 1;
 }
 
+.news-2cases {
+  grid-column: span 2;
+}
+
 /**
 * -----------
 * Trumps
