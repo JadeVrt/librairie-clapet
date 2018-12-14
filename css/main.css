@@ -201,7 +201,6 @@ button {
 
 .chapo {
   font-size: 25px;
-  width: 960px;
   height: 116px;
   text-align: center;
   margin: 55px;
@@ -562,14 +561,14 @@ button {
 }
 
 .legende1 {
-  font-family:"Work Sans"
+  font-family:"Work Sans", sans-serif;
   font-size: 16px;
   max-width: 600px;
   text-align: right;
 }
 
 .legende2 {
-  font-family:"Work Sans"
+  font-family:"Work Sans", sans-serif;
   font-size: 16px;
   max-width: 600px;
   text-align: right;
